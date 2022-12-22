@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>img/file-plus-fill.png</file>
+        <file>img/folder-open-fill.png</file>
+        <file>img/retrosupply-jLwVAUtLOAQ-unsplash.jpg</file>
+        <file>img/x-circle-fill.png</file>
+        <file>img/copy-outline.svg</file>
+        <file>img/icons8-copy-48.png</file>
+        <file>img/icons8-cut-16.png</file>
+        <file>img/icons8-paste-48.png</file>
+        <file>img/icons8-redo-48.png</file>
+        <file>img/icons8-save-48.png</file>
+        <file>img/icons8-save-as-48.png</file>
+        <file>img/icons8-undo-48.png</file>
+        <file>img/icons8-info-48.png</file>
+    </qresource>
+</RCC>
